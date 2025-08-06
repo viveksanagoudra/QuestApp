@@ -19,5 +19,5 @@ To get started with Java Level Up:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/java-level-up.git
+   git clone https://github.com/viveksangoudra/java-level-up.git
    ```
